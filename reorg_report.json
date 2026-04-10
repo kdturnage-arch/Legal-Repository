@@ -1,0 +1,5663 @@
+[
+  {
+    "source": "(1) Inbox _ kdturnage@protonmail V Gray confer email motion to dismiss.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/(1) Inbox _ kdturnage@protonmail V Gray confer email motion to dismiss.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion' | matched 'motion to'"
+  },
+  {
+    "source": "(1).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(10).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(11).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(12).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(13).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(14).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(15).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(16).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(17).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(18).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(2).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(20).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(21).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(24) Inbox _ kdturnage@protonmail.com _ Proton Mail Request for additional information.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(3).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(4).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(44) All mail _ kdturnage@protonmail August 18 2025 Ethics Crowdsourcing.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(44) All mail _ kdturnage@protonmail August 26, 2025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(44) All mail _ kdturnage@protonmail August 27, 2025 McCabe against leave.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(44) All mail _ kdturnage@protonmail Crowdsourcing Response Email August 18, 2025.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/(44) All mail _ kdturnage@protonmail Crowdsourcing Response Email August 18, 2025.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "(44) All mail _ kdturnage@protonmail Request for Documentation November 25, 2025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(44) All mail _ kdturnage@protonmail Response to August 27 2025 Followup McCabe.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/(44) All mail _ kdturnage@protonmail Response to August 27 2025 Followup McCabe.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "(5).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(6).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(7).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(8).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(9).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "(Amended Motion for Protective Order).pdf",
+    "predicted_destination": "03_Discovery/Protective_Orders",
+    "target_path": "03_Discovery/Protective_Orders/(Amended Motion for Protective Order).pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'protective order'"
+  },
+  {
+    "source": "01Mar2024 Email.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "02-Witness Affidavit (Turnage)[Final].pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/02-Witness Affidavit (Turnage)[Final].pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "02-Witness Affidavit (Turnage)[TFinal].pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/02-Witness Affidavit (Turnage)[TFinal].pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "02-Witness Affidavit -Turnage Supplemental.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/02-Witness Affidavit -Turnage Supplemental.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "02-Witness Supplemental Affidavit - Turnage.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/02-Witness Supplemental Affidavit - Turnage.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "02-Wittness Affidavit-Turnage Initial Affidavit Plus documentation.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/02-Wittness Affidavit-Turnage Initial Affidavit Plus documentation.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "032123  0732 email to IHS HQ regarding Hostile Work Environment.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "1 (2).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "1-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "10-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "10-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "10.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "11-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "11-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "11.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "112425 0837 mccabe email.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "112425 0924 email mccabe.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "12212022 Email to IHS HQ including Director Tso.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "18April 2025 Memo Legal.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/18April 2025 Memo Legal.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "2024 PMAP.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "2024004239_01_A1-AG_071524_094845_A.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "2024004239_01_AT-CO_071524_094845_C.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "2024004239_Appellant_Initial_Acknowledgement_Letter.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "2025 SF50 12_10.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "24-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "24-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "24-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "26-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "26.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27-6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "27.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "28-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "28.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "29Nov2023 Policy Committee email Attachments.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/29Nov2023 Policy Committee email Attachments.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "29Nov2023 Policy Committee email.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/29Nov2023 Policy Committee email.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "29USCChapter 28 FMLA.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/29USCChapter 28 FMLA.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'usc' | matched 'fmla'"
+  },
+  {
+    "source": "2Turnage Kevin HHS-IHS-0296-2023 Final Agency Decision.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "34-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "34-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "34-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "34.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35-6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "35.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36-7.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "36.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 Dill.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 GB.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 Hixson.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 Lee.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 McCabe.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 Pingel.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 Pope.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 Reidhead.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "37 summons Added Defendants.pdf",
+    "predicted_destination": "01_Case_Management/Case_Caption",
+    "target_path": "01_Case_Management/Case_Caption/37 summons Added Defendants.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'summons'"
+  },
+  {
+    "source": "37 White.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "38 summons with deficiencies.pdf",
+    "predicted_destination": "01_Case_Management/Case_Caption",
+    "target_path": "01_Case_Management/Case_Caption/38 summons with deficiencies.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'summons'"
+  },
+  {
+    "source": "43-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "43-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "43-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "43.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-7.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44-8.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "44.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "46.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50-6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "50.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "51-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "51-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "51-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "54-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "54-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "54.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "55-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "55-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "55-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "55-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "55.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "56-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "56-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "56-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "56.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "57-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "57-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "57.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "58-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "58.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "59-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "59.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "6-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60-6.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "60.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "61-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "61.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9214890142980424389287 DWL Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9214890142980424389294 TR Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9214890142980424389300 RFK Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9214890142980424389317 HHS OGC Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432922727-20260113 Google Tracking.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941759-20251224 Reidhead AO440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941766-20251223 Governing Body AO 440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941803-20251223 McCabe AO440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941827-20251223 Pope AO440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941841-20251223 Benjamin ao 440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941858-20251223 Kathy Dill AO 440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941865-20251227 Naomi Hixson.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765432941889-20251223 Candace Lee AO440.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9407111898765433085513-20260319 Certified FLRA HHS.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9414811898765430800330-20260215.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9414811898765439225097-20251229 MCCABE UPDATED.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9414811898765439582565-20260103.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9414811899561949392743.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9589071052701397990995.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9589071052701397993583.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9589071052701397993699.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9589071052701397993743.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9589071052701397993750.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "9589071052701397993767.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "[PROPOSED] ORDER DENYING EXTENSION.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/[PROPOSED] ORDER DENYING EXTENSION.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "[PROPOSED] ORDER GRANTING PLAINTIFF\u2019S EMERGENCY MOTION FOR PRELIMINARY INJUNCTION.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/[PROPOSED] ORDER GRANTING PLAINTIFF\u2019S EMERGENCY MOTION FOR PRELIMINARY INJUNCTION.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "[PROPOSED] ORDER GRANTING PLAINTIFF\u2019S MOTION FOR LEAVE TO FILE THIRD AMENDED COMPLAINT.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/[PROPOSED] ORDER GRANTING PLAINTIFF\u2019S MOTION FOR LEAVE TO FILE THIRD AMENDED COMPLAINT.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "[PROPOSED] ORDER GRANTING PLAINTIFF\u2019S MOTION FOR LEAVE TO SERVE THIRD-PARTY SUBPOENA PRIOR TO RULE 26(f) CONFERENCE.pdf",
+    "predicted_destination": "03_Discovery/Subpoenas",
+    "target_path": "03_Discovery/Subpoenas/[PROPOSED] ORDER GRANTING PLAINTIFF\u2019S MOTION FOR LEAVE TO SERVE THIRD-PARTY SUBPOENA PRIOR TO RULE 26(f) CONFERENCE.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'subpoena'"
+  },
+  {
+    "source": "[PROPOSED] ORDER OF DEFAULT.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/[PROPOSED] ORDER OF DEFAULT.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "[PROPOSED] ORDER TO DOC 58.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/[PROPOSED] ORDER TO DOC 58.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "Acknowledgement and Email Chain.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'email chain'"
+  },
+  {
+    "source": "adcffa45-17ed-4356-8d49-bb2abd3fd6d9 OSC Filing 123025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Administrative+Closure+of+EEOC+Routing+No.+2023002548-1.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/Administrative+Closure+of+EEOC+Routing+No.+2023002548-1.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'eeoc' | government-agency acronym"
+  },
+  {
+    "source": "Affidavit of Kevin D. Turnage Exhibit 3.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/Affidavit of Kevin D. Turnage Exhibit 3.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "affidavit_religious_duty_to_work.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/affidavit_religious_duty_to_work.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "Agency Acknowledgment  email 021226.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Agency Decision 0296-2023.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Alicia Email ANSOS return to work.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "ALl OSC files.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Appeal-1.pdf",
+    "predicted_destination": "10_Post_Judgment/Appeal",
+    "target_path": "10_Post_Judgment/Appeal/Appeal-1.pdf",
+    "score": "93",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 10_Post_Judgment/Appeal | matched 'appeal'"
+  },
+  {
+    "source": "Appellants+Appeal-+Demonstrating+a+Continuing+Pattern+of+Retaliation+and+Harassment.pdf",
+    "predicted_destination": "10_Post_Judgment/Appeal",
+    "target_path": "10_Post_Judgment/Appeal/Appellants+Appeal-+Demonstrating+a+Continuing+Pattern+of+Retaliation+and+Harassment.pdf",
+    "score": "93",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 10_Post_Judgment/Appeal | matched 'appeal'"
+  },
+  {
+    "source": "Apr 8 2025 Memo and email to Executive Leadership.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Apr 8 2025 Memo and email to Executive Leadership.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "April 30 2025 Compliance Memorandum to Executive Leadership.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/April 30 2025 Compliance Memorandum to Executive Leadership.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Asbestos Awareness and Control 18233131.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Attachment A - Statement of Facts.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Attachment A - Statement of Facts.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'fac' | matched 'tac'"
+  },
+  {
+    "source": "ATTACHMENT A Memo For Record Stroke Alert 053025.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/ATTACHMENT A Memo For Record Stroke Alert 053025.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Aug 31 2022 Email Chain regarding Toni Greve.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'email chain'"
+  },
+  {
+    "source": "August 25 25 First Leave Extension Invalid.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "August 29 McCabe.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "AZ ATTY 120225.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "AZ BON Memo Investigator Lunken Signed.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/AZ BON Memo Investigator Lunken Signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "AZ BON Memo Investigator Lunken.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/AZ BON Memo Investigator Lunken.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "AZ Complaint on Google 011426.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/AZ Complaint on Google 011426.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "AZBN - Complaint Portal.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/AZBN - Complaint Portal.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "AZUSATTY Email 121525.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "BE TG Complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/BE TG Complaint.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Binder2.pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Binders",
+    "target_path": "04_Exhibits/Exhibit_Binders/Binder2.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'binder'"
+  },
+  {
+    "source": "Brief to DWL Relief.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Brief to DWL Relief.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'brief'"
+  },
+  {
+    "source": "Brief to DWL.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Brief to DWL.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'brief'"
+  },
+  {
+    "source": "build-repo-html-compat.ps1",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/build-repo-html-compat.ps1",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'hr'"
+  },
+  {
+    "source": "build_legal_tree.py",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/build_legal_tree.py",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'hr'"
+  },
+  {
+    "source": "Burlington Northern  & Santa Fe Railway Co. v White.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Case Binder 822.pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Binders",
+    "target_path": "04_Exhibits/Exhibit_Binders/Case Binder 822.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'binder'"
+  },
+  {
+    "source": "CCC Provider List Email conversation Tonie Greve.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "CERTIFICATE OF GOOD FAITH CONSULTATION PURSUANT TO LRCiv 7.2(j).pdf",
+    "predicted_destination": "05_Legal_Authorities/Local_Rules",
+    "target_path": "05_Legal_Authorities/Local_Rules/CERTIFICATE OF GOOD FAITH CONSULTATION PURSUANT TO LRCiv 7.2(j).pdf",
+    "score": "105",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'lrciv' | rules reference"
+  },
+  {
+    "source": "Certificate of Good Faith Consultation.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Certificate of Service for Doc 18.pdf",
+    "predicted_destination": "01_Case_Management/Service",
+    "target_path": "01_Case_Management/Service/Certificate of Service for Doc 18.pdf",
+    "score": "78",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 01_Case_Management/Service | matched 'service'"
+  },
+  {
+    "source": "certificate_of_service.pdf",
+    "predicted_destination": "01_Case_Management/Service",
+    "target_path": "01_Case_Management/Service/certificate_of_service.pdf",
+    "score": "78",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 01_Case_Management/Service | matched 'service'"
+  },
+  {
+    "source": "Certified File Copy OSC Supplemental 09242025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "chart note BB to CT Attach 2.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/chart note BB to CT Attach 2.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Chronological Legal Timeline of Compliance Suppression and Retaliation.pdf",
+    "predicted_destination": "06_Research/Chronologies",
+    "target_path": "06_Research/Chronologies/Chronological Legal Timeline of Compliance Suppression and Retaliation.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'chronological'"
+  },
+  {
+    "source": "CLIA Complaint received.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/CLIA Complaint received.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "CM_ECF - azd Doc 60.pdf",
+    "predicted_destination": "01_Case_Management/Docket",
+    "target_path": "01_Case_Management/Docket/CM_ECF - azd Doc 60.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'ecf'"
+  },
+  {
+    "source": "CM_ECF - azd Doc 64.pdf",
+    "predicted_destination": "01_Case_Management/Docket",
+    "target_path": "01_Case_Management/Docket/CM_ECF - azd Doc 64.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'ecf'"
+  },
+  {
+    "source": "CM_ECF - azd doc 65 Notice of Errata.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "02_Pleadings/Notices/CM_ECF - azd doc 65 Notice of Errata.pdf",
+    "score": "130",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'notice' | matched 'notice of'"
+  },
+  {
+    "source": "CMS Cover Letter 062525.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/CMS Cover Letter 062525.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'cms'"
+  },
+  {
+    "source": "CMS Regional Offices _ CMS.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/CMS Regional Offices _ CMS.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'cms'"
+  },
+  {
+    "source": "complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/complaint.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "complaint_and_request_for_injunction.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/complaint_and_request_for_injunction.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "complaint_for_a_civil_case.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/complaint_for_a_civil_case.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "complaint_for_violation_of_civil_rights_non-prisoner.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/complaint_for_violation_of_civil_rights_non-prisoner.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "complaint_for_violations_of_fair_labor_standards.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/complaint_for_violations_of_fair_labor_standards.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "complaint_Redacted.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/complaint_Redacted.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Complete_Policy_Governance_Briefing_Package_PIMC_Signed.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Complete_Policy_Governance_Briefing_Package_PIMC_Signed.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Compliance Plan-History-No-Watermark.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Conferral on First Amended Complaint .pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Conferral on First Amended Complaint .pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "Consumer Report to FTC Google 011426.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Continued Retaliation Following Protected Disclosure_signed.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Copy of Hostile Work Environment Email 03212023 to show BCC.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "CORRECTED FOURTH AMENDED COMPLAINT.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/CORRECTED FOURTH AMENDED COMPLAINT.pdf",
+    "score": "240",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint' | matched 'fourth amended'"
+  },
+  {
+    "source": "Coud Nov 4 2021.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Cover Email - Policy Override Memo.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Cover Email - Policy Override Memo.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "COVID Swabbing Rotation Email JW 01_19_23.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "CP All emails as of 06122025 copy.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "CP All emails as of 06122025.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "CP Transmittal Response.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/CP Transmittal Response.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "d69e6a88-0328-4cd2-9247-d0332ce7dd14.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "d6eed4e4-de1d-4d74-88d5-2874effe96f5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Declaration of Kevin D Turnage PMAP.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/Declaration of Kevin D Turnage PMAP.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'declaration'"
+  },
+  {
+    "source": "Declaration under Penalty of Perjury 04142025.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/Declaration under Penalty of Perjury 04142025.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'declaration'"
+  },
+  {
+    "source": "declaration_religious_exercise_rfra.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/declaration_religious_exercise_rfra.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'declaration'"
+  },
+  {
+    "source": "DEPARTMENT OF HEALTH & HUMAN SERVICES pf.pdf",
+    "predicted_destination": "01_Case_Management/Service",
+    "target_path": "01_Case_Management/Service/DEPARTMENT OF HEALTH & HUMAN SERVICES pf.pdf",
+    "score": "78",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 01_Case_Management/Service | matched 'service'"
+  },
+  {
+    "source": "Deposition Questions for Turnage v. HHS Depositions.pdf",
+    "predicted_destination": "05_Legal_Authorities/Cases",
+    "target_path": "05_Legal_Authorities/Cases/Deposition Questions for Turnage v. HHS Depositions.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched ' v. '"
+  },
+  {
+    "source": "DHHS Envelope.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "DI-16-2511 WB Closure Ltr.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 1 Plaintiffs Motion in Limine.pdf",
+    "predicted_destination": "09_Trial/Trial_Briefs",
+    "target_path": "09_Trial/Trial_Briefs/Doc 1 Plaintiffs Motion in Limine.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'in limine'"
+  },
+  {
+    "source": "Doc 1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 23 Order in Motion Limine with Prejudice.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/Doc 23 Order in Motion Limine with Prejudice.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "Doc 29-1 Redlined Amended Complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Doc 29-1 Redlined Amended Complaint.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "Doc 32 First Amended Complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Doc 32 First Amended Complaint.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "Doc 33 AO440 New Defendants.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 47 redownload.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 47.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 49  Order denying Second Motion to Amend.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Doc 49  Order denying Second Motion to Amend.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion' | matched 'motion to'"
+  },
+  {
+    "source": "Doc 51 MOTION FOR LEAVE TO SERVE THIRD-PARTY SUBPOENA PRIOR TO RULE 26(f) CONFERENCE.pdf",
+    "predicted_destination": "03_Discovery/Subpoenas",
+    "target_path": "03_Discovery/Subpoenas/Doc 51 MOTION FOR LEAVE TO SERVE THIRD-PARTY SUBPOENA PRIOR TO RULE 26(f) CONFERENCE.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'subpoena'"
+  },
+  {
+    "source": "Doc 52 [PROPOSED] ORDER GRANTING PLAINTIFF\u2019S MOTION FOR LEAVE TO SERVE THIRD-PARTY SUBPOENA PRIOR TO RULE 26(f) CONFERENCE.pdf",
+    "predicted_destination": "03_Discovery/Subpoenas",
+    "target_path": "03_Discovery/Subpoenas/Doc 52 [PROPOSED] ORDER GRANTING PLAINTIFF\u2019S MOTION FOR LEAVE TO SERVE THIRD-PARTY SUBPOENA PRIOR TO RULE 26(f) CONFERENCE.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'subpoena'"
+  },
+  {
+    "source": "Doc 64-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 64.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 65 Notice of Errata to Doc. 64.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "02_Pleadings/Notices/Doc 65 Notice of Errata to Doc. 64.pdf",
+    "score": "130",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'notice' | matched 'notice of'"
+  },
+  {
+    "source": "Doc 66-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 66-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 66-3.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 66-4.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 66-5.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 66.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Doc 67.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Document 29 Notice of First Amended Complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Document 29 Notice of First Amended Complaint.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "Document 37.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Document 39.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Document 41 AO440 McCabe with Seal 12292025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Document 46 AO440 Birdshead.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Document 47 Motion in Opposition.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Document 47 Motion in Opposition.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Document 48 Plaintiff's Response In Support of Motion for Preliminary Injunction.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Document 48 Plaintiff's Response In Support of Motion for Preliminary Injunction.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Document 53 Motion Opposing.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Document 53 Motion Opposing.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Dr. McCabe Email.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "DWL All Emails as of 06122025 optimizedd copy.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "DWL Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "DWL Response to Transmittal Request.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/DWL Response to Transmittal Request.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "ECF - azd 021526.pdf",
+    "predicted_destination": "01_Case_Management/Docket",
+    "target_path": "01_Case_Management/Docket/ECF - azd 021526.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'ecf'"
+  },
+  {
+    "source": "EEO_Retaliation_Complaint_Revised.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/EEO_Retaliation_Complaint_Revised.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "EEOC All .pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/EEOC All .pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'eeoc' | government-agency acronym"
+  },
+  {
+    "source": "EEOC Determination.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/EEOC Determination.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'eeoc' | government-agency acronym"
+  },
+  {
+    "source": "EEOC Form 573 - Notice of Appeal Kevin D Turnage.pdf",
+    "predicted_destination": "10_Post_Judgment/Appeal",
+    "target_path": "10_Post_Judgment/Appeal/EEOC Form 573 - Notice of Appeal Kevin D Turnage.pdf",
+    "score": "178",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 10_Post_Judgment/Appeal | matched 'appeal' | matched 'notice of appeal'"
+  },
+  {
+    "source": "EEOC Form 573-2.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/EEOC Form 573-2.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'eeoc' | government-agency acronym"
+  },
+  {
+    "source": "EM All emails as of 06122025.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "Email and Letter Response to Google 011426.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Email and Letter Response to Google 011426.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Email Chain October 2022 regarding RA with TG.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'email chain'"
+  },
+  {
+    "source": "Email Chain regarding Covid Swabbing TG.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'email chain'"
+  },
+  {
+    "source": "Email elevating to HQ 3.21.23 0732.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Email Endrea McCabe 04012026 PMAP - Copy.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Email Endrea McCabe 04012026 PMAP.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Email from Gray Dec 29 2025 0820.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Email March 6 2026 Bellinger.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Email response to Gray Dec 29 2025.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Email response to Gray Dec 29 2025.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Email to BB March 1, 2023.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "employee-grievance-letter-response signed.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/employee-grievance-letter-response signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "employee-grievance-letter-response.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/employee-grievance-letter-response.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Enforcement Guidance on Retaliation and Related Issues _ U.S. Equal Employment Opportunity Commission.pdf",
+    "predicted_destination": "10_Post_Judgment/Enforcement",
+    "target_path": "10_Post_Judgment/Enforcement/Enforcement Guidance on Retaliation and Related Issues _ U.S. Equal Employment Opportunity Commission.pdf",
+    "score": "93",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 10_Post_Judgment/Enforcement | matched 'enforcement'"
+  },
+  {
+    "source": "Escalation of Violations of 5 U.S.C. 2302b Federal Regulations and Internal Compliance Directives Singed.pdf",
+    "predicted_destination": "05_Legal_Authorities/Regulations",
+    "target_path": "05_Legal_Authorities/Regulations/Escalation of Violations of 5 U.S.C. 2302b Federal Regulations and Internal Compliance Directives Singed.pdf",
+    "score": "88",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 05_Legal_Authorities/Regulations | matched 'regulation'"
+  },
+  {
+    "source": "Executive Summary.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Exhibit 2 Second Amended complaint Kevin Turnage Protected Disclosure and Retaliation Timeline.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Exhibit 2 Second Amended complaint Kevin Turnage Protected Disclosure and Retaliation Timeline.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "Exhibit A - Position Description PX3147_ Policy Officer_FINAL.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Exhibit A - Position Description PX3147_ Policy Officer_FINAL.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Exhibit B \u0393\u00c7\u00f4 Policy Management Policy (Sept. 30, 2024 Revision \u0393\u00c7\u00f4 Old Policy).pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Exhibit B \u0393\u00c7\u00f4 Policy Management Policy (Sept. 30, 2024 Revision \u0393\u00c7\u00f4 Old Policy).pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Exhibit C \u0393\u00c7\u00f4 Policy Management Policy (June 26, 2025 Revision \u0393\u00c7\u00f4 Current Policy).pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Exhibit C \u0393\u00c7\u00f4 Policy Management Policy (June 26, 2025 Revision \u0393\u00c7\u00f4 Current Policy).pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Exhibit D \u0393\u00c7\u00f4 Workflow Comparison Chart (2024 vs. 2025).pdf",
+    "predicted_destination": "05_Legal_Authorities/Cases",
+    "target_path": "05_Legal_Authorities/Cases/Exhibit D \u0393\u00c7\u00f4 Workflow Comparison Chart (2024 vs. 2025).pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched ' vs. '"
+  },
+  {
+    "source": "Exhibit E \u0393\u00c7\u00f4 Timeline of Policy Changes (2019\u0393\u00c7\u00f42025).pdf",
+    "predicted_destination": "06_Research/Timelines",
+    "target_path": "06_Research/Timelines/Exhibit E \u0393\u00c7\u00f4 Timeline of Policy Changes (2019\u0393\u00c7\u00f42025).pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'timeline'"
+  },
+  {
+    "source": "Exhibit F \u0393\u00c7\u00f4 Declaration of Kevin D. Turnage.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/Exhibit F \u0393\u00c7\u00f4 Declaration of Kevin D. Turnage.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'declaration'"
+  },
+  {
+    "source": "Exhibit G \u0393\u00c7\u00f4 Supplemental Filing Memorandum.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Exhibit G \u0393\u00c7\u00f4 Supplemental Filing Memorandum.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Exhibit H \u0393\u00c7\u00f4 Executive Summary (1-Page).pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Binders",
+    "target_path": "",
+    "score": "35",
+    "action": "review_only",
+    "method": "",
+    "reasons": "filename begins with exhibit"
+  },
+  {
+    "source": "Exhibit I \u0393\u00c7\u00f4 Proposed Corrective Action.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Exhibit I \u0393\u00c7\u00f4 Proposed Corrective Action.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'act'"
+  },
+  {
+    "source": "Exhibit Index \u0393\u00c7\u00f4 Supplemental Filing.pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Indexes",
+    "target_path": "04_Exhibits/Exhibit_Indexes/Exhibit Index \u0393\u00c7\u00f4 Supplemental Filing.pdf",
+    "score": "95",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'exhibit index'"
+  },
+  {
+    "source": "Exhibit-Stamp.pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Binders",
+    "target_path": "",
+    "score": "35",
+    "action": "review_only",
+    "method": "",
+    "reasons": "filename begins with exhibit"
+  },
+  {
+    "source": "FACT TIMELINE .pdf",
+    "predicted_destination": "06_Research/Timelines",
+    "target_path": "06_Research/Timelines/FACT TIMELINE .pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'timeline'"
+  },
+  {
+    "source": "Filed Opposition to Motion to Extend.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Filed Opposition to Motion to Extend.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion' | matched 'motion to'"
+  },
+  {
+    "source": "Filing Doc 66 acknowledgment page.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "FINAL+Turnage+v.+HHS+-+Motion+to+Strike+and+Exhibit-1.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/FINAL+Turnage+v.+HHS+-+Motion+to+Strike+and+Exhibit-1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Final_EEOC_Submission_with_Procedural_Technicalities-2.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/Final_EEOC_Submission_with_Procedural_Technicalities-2.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'eeoc'"
+  },
+  {
+    "source": "Final_Plaintiff_Reply_to_Doc_No_47.pdf",
+    "predicted_destination": "02_Pleadings/Replies",
+    "target_path": "02_Pleadings/Replies/Final_Plaintiff_Reply_to_Doc_No_47.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'reply'"
+  },
+  {
+    "source": "First Amended Accepted.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Formal Compliance Memorandum.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Formal Compliance Memorandum.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Formal EEO 13April 2023.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Formal Notice Violation of CMS Conditions of Participation and Policy Governance Failure at Phoenix Indian Medical Center.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/Formal Notice Violation of CMS Conditions of Participation and Policy Governance Failure at Phoenix Indian Medical Center.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'cms'"
+  },
+  {
+    "source": "Formal Objection and Legal Challenge to Directive Removing Workflow Access Retaliation in Violation of Federal Law Memo Signed.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Formal Objection and Legal Challenge to Directive Removing Workflow Access Retaliation in Violation of Federal Law Memo Signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Formal Objection and Legal Clarification of Authority to Reject Noncompliant Policies.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Policies"
+  },
+  {
+    "source": "Formal Timeline and Legal Opinion.pdf",
+    "predicted_destination": "06_Research/Timelines",
+    "target_path": "06_Research/Timelines/Formal Timeline and Legal Opinion.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'timeline'"
+  },
+  {
+    "source": "Fraud, Waste, or Abuse Complaint 101525.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Fraud, Waste, or Abuse Complaint 101525.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Fraud, Waste, or Abuse Complaint060925 all.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Fraud, Waste, or Abuse Complaint060925 all.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Fraud, Waste, or Abuse Complaint06102025.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Fraud, Waste, or Abuse Complaint06102025.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Friday.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Fw_ Notice of leave Emily Drake.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "02_Pleadings/Notices/Fw_ Notice of leave Emily Drake.pdf",
+    "score": "130",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'notice' | matched 'notice of'"
+  },
+  {
+    "source": "FW_ Nurse Assessment room.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "GAO Formal ComplaintSigned.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/GAO Formal ComplaintSigned.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'gao' | government-agency acronym"
+  },
+  {
+    "source": "General Denial HHS-IHS-0334-2022 Signed.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "General Denial HHS-IHS-0334-2022.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Gmail - Confirmation Receipt for Whistleblower RetaliationDEC2024.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Gmail - Fwd_ Fw_ Statement.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Gmail - Fwd_ Fw_ StatementKrumenacker.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Gmail - RE_ Administrative Leave.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Good Enough.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Googl Attachment.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Googl Attachment.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Google Draft Binder.pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Binders",
+    "target_path": "04_Exhibits/Exhibit_Binders/Google Draft Binder.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'binder'"
+  },
+  {
+    "source": "Google Letter 1 Signed.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Google Response.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Google Response.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Google.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Governance Deficiency Notice \u0393\u00c7\u00f4 Pharmacy and Therapeutics (P&T) Committee Charter Missing.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'notice'"
+  },
+  {
+    "source": "Grev Step 2 email 03.21.23 1541-2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Grievance 030623.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Grievance Letter Signed 06March2023 2.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "HHS Certificate of Service for Kevin D. Turnage Letter of Dismissal (HHS-IHS-0614-2023)- (03-06-26)-Signed by MBJ pf.pdf",
+    "predicted_destination": "01_Case_Management/Service",
+    "target_path": "01_Case_Management/Service/HHS Certificate of Service for Kevin D. Turnage Letter of Dismissal (HHS-IHS-0614-2023)- (03-06-26)-Signed by MBJ pf.pdf",
+    "score": "78",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 01_Case_Management/Service | matched 'service'"
+  },
+  {
+    "source": "HHS Certificate of Service for Kevin D. Turnage Letter of Dismissal (HHS-IHS-0614-2023)- (03-06-26)-Signed by MBJ.pdf",
+    "predicted_destination": "01_Case_Management/Service",
+    "target_path": "01_Case_Management/Service/HHS Certificate of Service for Kevin D. Turnage Letter of Dismissal (HHS-IHS-0614-2023)- (03-06-26)-Signed by MBJ.pdf",
+    "score": "78",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 01_Case_Management/Service | matched 'service'"
+  },
+  {
+    "source": "HHS IHS 0466 2021 0000006 Right to file.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "HHS Instruction 430-1 Performance Management Appraisal Program (PMAP) 2023.pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/HHS Instruction 430-1 Performance Management Appraisal Program (PMAP) 2023.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'performance'"
+  },
+  {
+    "source": "HHS KT Rebuttal BB.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "HHS KT Rebuttal JW.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "HHS OGC Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "HHS OIG 100625Other Complaint.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/HHS OIG 100625Other Complaint.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "HHS OIG Complaint Abuse of Authority 100625.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/HHS OIG Complaint Abuse of Authority 100625.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "HHS OIG Confidential Compliance Memorandum OIG and OGC June 10, 2025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/HHS OIG Confidential Compliance Memorandum OIG and OGC June 10, 2025.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "HHS OIG CONFIDENTIAL COMPLIANCE MEMORANDUMSigned.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/HHS OIG CONFIDENTIAL COMPLIANCE MEMORANDUMSigned.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "HHS OIG Coverletter 062525.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/HHS OIG Coverletter 062525.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "HHS PMAP Handbook, Resource Guide for Supervisors and Employees.pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/HHS PMAP Handbook, Resource Guide for Supervisors and Employees.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'handbook'"
+  },
+  {
+    "source": "HHS-IHS-0614-2023 Dismissal Letter Turnage, K.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Hospital Policy For Policy Committee.pdf",
+    "predicted_destination": "04_Exhibits/Medical_Records",
+    "target_path": "04_Exhibits/Medical_Records/Hospital Policy For Policy Committee.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'hospital'"
+  },
+  {
+    "source": "Hostile Work Environment Bertha Edison.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Hostile Work Environment claim E.Hill.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "I.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Implementation of Revised Policy Review Cycle per IHM Transmittal Notice 24-16 Signed.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Implementation of Revised Policy Review Cycle per IHM Transmittal Notice 24-16 Signed.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Implementation of Revised Policy Review Cycle per IHM Transmittal Notice 24-16.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Implementation of Revised Policy Review Cycle per IHM Transmittal Notice 24-16.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Informal Documents Packet w Page Numbers KT.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Jodi_OMalley_PIMC_Web_Exhibit_Binder.pdf",
+    "predicted_destination": "04_Exhibits/Exhibit_Binders",
+    "target_path": "04_Exhibits/Exhibit_Binders/Jodi_OMalley_PIMC_Web_Exhibit_Binder.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'binder'"
+  },
+  {
+    "source": "Joint Commission Acknowledgement.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Joint Commission Response.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Joint Commission Response.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "JULY 11 2025 FILING.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "July 18th 2025 Email Chain Return of Government Equipment.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'email chain'"
+  },
+  {
+    "source": "June 13, 2025 Memo Override Signed.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/June 13, 2025 Memo Override Signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "June 25 2025 CEO Violation of IHM Transmittal 24-16.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "JW CCC Team Splits.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "K Turnage Affidavit T  Greve Complaint .pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/K Turnage Affidavit T  Greve Complaint .pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Karyn Starr MS Teams conversation April.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Keep _ kdturnage@protonmail 083123 Greve Issue Regarding Hostile Work Environment.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Keep _ kdturnage@protonmail Retaliation and Discrimination Email 12212022 @1505.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Kevin Turnage Protected Disclosure and Retaliation Timeline.pdf",
+    "predicted_destination": "06_Research/Timelines",
+    "target_path": "06_Research/Timelines/Kevin Turnage Protected Disclosure and Retaliation Timeline.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'timeline'"
+  },
+  {
+    "source": "Krumenacker Witness Statement to Investigator.pdf",
+    "predicted_destination": "06_Research/Witness_Notes",
+    "target_path": "06_Research/Witness_Notes/Krumenacker Witness Statement to Investigator.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'witness'"
+  },
+  {
+    "source": "Krumenacker.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Labeling of Specimen Containers, Colored Cassettes, & Slides 18265459.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "LEGAL BRIEF  Re- Legal Authority of Federal Register Document 2024-31273 in Support of the Compliance Classification of the Policy and Procedures Officer (PX3147)  .pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/LEGAL BRIEF  Re- Legal Authority of Federal Register Document 2024-31273 in Support of the Compliance Classification of the Policy and Procedures Officer (PX3147)  .pdf",
+    "score": "150",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy' | matched 'procedure'"
+  },
+  {
+    "source": "LEGAL BRIEF  Re- Legal Authority of Federal Register Document 2024-31273 in Support of the Compliance Classification of the Policy and Procedures Officer (PX3147)  _Final.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/LEGAL BRIEF  Re- Legal Authority of Federal Register Document 2024-31273 in Support of the Compliance Classification of the Policy and Procedures Officer (PX3147)  _Final.pdf",
+    "score": "150",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy' | matched 'procedure'"
+  },
+  {
+    "source": "LEGAL BRIEF IN SUPPORT OF OSC COMPLAINT.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/LEGAL BRIEF IN SUPPORT OF OSC COMPLAINT.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Legal Brief TRLLC.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Legal Brief TRLLC.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'brief'"
+  },
+  {
+    "source": "Legal Consequences of CEO\u0393\u00c7\u00d6s Refusal to Implement Binding IHS Policy Directives under TN 24-16.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Legal Consequences of CEO\u0393\u00c7\u00d6s Refusal to Implement Binding IHS Policy Directives under TN 24-16.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Legal Statement for OIG Submission 04142025.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/Legal Statement for OIG Submission 04142025.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "LEGAL SYNTHESIS BRIEF Authority and Compliance Function of PX3147.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/LEGAL SYNTHESIS BRIEF Authority and Compliance Function of PX3147.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'brief'"
+  },
+  {
+    "source": "legal_repo_reorganizer.py",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/legal_repo_reorganizer.py",
+    "score": "925",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'gao' | matched 'oig' | matched 'cms' | matched 'eeoc' | matched 'mspb' | matched 'opm' | matched 'inspector general' | matched 'audit report'"
+  },
+  {
+    "source": "legal_tree.html",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/legal_tree.html",
+    "score": "400",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint' | matched 'fac' | matched 'tac' | matched 'fourth amended'"
+  },
+  {
+    "source": "Letter of Directive email 032323 1159.pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/Letter of Directive email 032323 1159.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'directive'"
+  },
+  {
+    "source": "letter of Directive email 032823 1136.pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/letter of Directive email 032823 1136.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'directive'"
+  },
+  {
+    "source": "make-gitattributes.ps1",
+    "predicted_destination": "99_Archive",
+    "target_path": "99_Archive/make-gitattributes.ps1",
+    "score": "95",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'archive'"
+  },
+  {
+    "source": "March 22, 2025 email to Pope.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "March 23 2023 OSC Filing.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "March 31, 2023 Detail.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "March 9 2026 BRIEF IN SUPPORT OF COMPLAINANT\u2019S APPEAL.pdf",
+    "predicted_destination": "10_Post_Judgment/Appeal",
+    "target_path": "10_Post_Judgment/Appeal/March 9 2026 BRIEF IN SUPPORT OF COMPLAINANT\u2019S APPEAL.pdf",
+    "score": "93",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 10_Post_Judgment/Appeal | matched 'appeal'"
+  },
+  {
+    "source": "May 15 Complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/May 15 Complaint.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "May 30 2025 Governing Body Memorandum cc Congress and Senate.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/May 30 2025 Governing Body Memorandum cc Congress and Senate.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "McCabe Emails.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "Meet\u2011and\u2011Confer \u2013 Joint Case\u2011Management Plan \u2013 CV\u201125\u201103367\u2011PHX\u2011SMB Email and Attachment.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Meet\u2011and\u2011Confer \u2013 Joint Case\u2011Management Plan \u2013 CV\u201125\u201103367\u2011PHX\u2011SMB Email and Attachment.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Meet\u2011and\u2011Confer \u2013 Joint Case\u2011Management Plan \u2013 CV\u201125\u201103367\u2011PHX\u2011SMB Email.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Memo 052125.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo 052125.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo and Email to Governing Body on March 21, 2025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo and Email to Governing Body on March 21, 2025.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo for Record June 13, 2025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo for Record June 13, 2025.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Legal and Regulatory reasons for Charters and Bylaws.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Legal and Regulatory reasons for Charters and Bylaws.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo PX3147 Functions Meet Regulatory and Compliance Standards for Policy Review.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Memo PX3147 Functions Meet Regulatory and Compliance Standards for Policy Review.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Memo Style 19Dec2022 calling me dishonest.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style 19Dec2022 calling me dishonest.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Angela Porter Follow-up.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Angela Porter Follow-up.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style BB Grievance 2.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style BB Grievance 2.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style BB to CT Attach 1.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style BB to CT Attach 1.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style BB to CT.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style BB to CT.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style BE email.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style BE email.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style change of LAO.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style change of LAO.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Civil Rights Threat.pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/Memo Style Civil Rights Threat.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'hr'"
+  },
+  {
+    "source": "Memo Style CMA 022423.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style CMA 022423.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style CMA posting 021023.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style CMA posting 021023.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Detail to PHN 3.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Detail to PHN 3.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Detail to PHN.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Detail to PHN.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Directive telling me not to contact anyone outside of Phoenix Indian Medical Center.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style Directive telling me not to contact anyone outside of Phoenix Indian Medical Center.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style Disparate 1.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Disparate 1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Disparate 2.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Disparate 2.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style DWL Stage 1.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style DWL Stage 1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style EH complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style EH complaint.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Memo Style FMLA follow-up number 3.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Memo Style FMLA follow-up number 3.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'fmla'"
+  },
+  {
+    "source": "Memo Style follow up on nurses HWE claim.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style follow up on nurses HWE claim.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Forwarded EEO complaint by me to HQ.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style Forwarded EEO complaint by me to HQ.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Memo Style G Patton Read receipt 19Dec2022.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style G Patton Read receipt 19Dec2022.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style GP re TG ra.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style GP re TG ra.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Grievance 2 Attachment 1.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style Grievance 2 Attachment 1.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style Grievance 2 Attachment 3Greve.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style Grievance 2 Attachment 3Greve.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style Grievance 2 Attachment2 chart note (002).pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style Grievance 2 Attachment2 chart note (002).pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style HWE Claim Attachment.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style HWE Claim Attachment.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style HWE Durr 2.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style HWE Durr 2.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style JW regarding meeting.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style JW regarding meeting.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style meeting invite for 071922 with meeting rules.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style meeting invite for 071922 with meeting rules.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style moved her back to my clinic.pdf",
+    "predicted_destination": "04_Exhibits/Medical_Records",
+    "target_path": "04_Exhibits/Medical_Records/Memo Style moved her back to my clinic.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'clinic'"
+  },
+  {
+    "source": "Memo Style No Amb expereince.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style No Amb expereince.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse 2.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse 2.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse 3.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse 3.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse 4.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse 4.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse AD.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse AD.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse AD1.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse AD1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse AD2.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse AD2.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse HWE follow-up Durr, Tracey 29Dec22.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse HWE follow-up Durr, Tracey 29Dec22.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Nurse.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Nurse.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Patient Safety 031723.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Patient Safety 031723.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Patient safety 121222.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Patient safety 121222.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Patient Safety from Director Tso.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Patient Safety from Director Tso.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Patient safety.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Patient safety.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Porter response Never contacted.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style Porter response Never contacted.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style Position statement 031723.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Position statement 031723.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Racial 1.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Racial 1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Racist 1.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Racist 1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Racist to CL.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Racist to CL.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style realignment.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style realignment.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style request to CL regardining TG RA.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style request to CL regardining TG RA.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style requesting copy of official detail from administration.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style requesting copy of official detail from administration.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Respond to no CMA position updates.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Respond to no CMA position updates.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style TG 19DEC22 Attachment 1.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style TG 19DEC22 Attachment 1.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style TG 19DEC22 Attachment 2.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Memo Style TG 19DEC22 Attachment 2.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'tac'"
+  },
+  {
+    "source": "Memo Style TG 19DEC22.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style TG 19DEC22.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style TG Detail transfer 2.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style TG Detail transfer 2.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style TG Exploitation.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style TG Exploitation.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style TG PMAP for review.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style TG PMAP for review.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style TG Questions 09052018.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style TG Questions 09052018.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style to KT from  BB regarding great job.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style to KT from  BB regarding great job.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style Tracey Durr.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style Tracey Durr.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo Style.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo Style.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo StyleNurse AD 3.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo StyleNurse AD 3.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "Memo StyleNurse AD 4.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memo StyleNurse AD 4.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "MEMORANDUM 112525.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/MEMORANDUM 112525.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum For Record Hixson 062525.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum For Record Hixson 062525.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "MEMORANDUM FOR RECORD July 18, 2025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/MEMORANDUM FOR RECORD July 18, 2025.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum For Record Revised Review Safety Event Reporting Policy, Sentinel Event Framework, and Risk Analysis_Signed .pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum For Record Revised Review Safety Event Reporting Policy, Sentinel Event Framework, and Risk Analysis_Signed .pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum For Record- Revised Review \u0393\u00c7\u00f4 Safety Event Reporting Policy, Sentinel Event Framework, and Risk Analysis.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum For Record- Revised Review \u0393\u00c7\u00f4 Safety Event Reporting Policy, Sentinel Event Framework, and Risk Analysis.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum Request for Written Direction Regarding PolicyStat Compliance with IHM Transmittal Notice 24.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum Request for Written Direction Regarding PolicyStat Compliance with IHM Transmittal Notice 24.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum Sentinel Event 05_21_25 Ward Lund and Pope_Signed-1.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum Sentinel Event 05_21_25 Ward Lund and Pope_Signed-1.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum to GB 052125_Signed.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum to GB 052125_Signed.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum to Leadership and Governing Body 14 April 2025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum to Leadership and Governing Body 14 April 2025.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Memorandum.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Memorandum.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "MFR 06102025 Pope Illegal Directive .pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/MFR 06102025 Pope Illegal Directive .pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'directive'"
+  },
+  {
+    "source": "MFR 06102025 Pope Illegal Directive Signed.pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/MFR 06102025 Pope Illegal Directive Signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'directive'"
+  },
+  {
+    "source": "mfr email.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "MFR Leadership and Governing Body.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Microsoft Word - DOJ_Complaint_PIMC_Systemic_Failures.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Microsoft Word - DOJ_Complaint_PIMC_Systemic_Failures.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "MOTION FOR ENTRY OF DEFAULT AND REQUEST FOR EXPEDITED HEARING.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/MOTION FOR ENTRY OF DEFAULT AND REQUEST FOR EXPEDITED HEARING.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Motion for Expedited Consideration of the Google Subpoena CV 25 03367 PHX SMB Expedited Subpoena.pdf",
+    "predicted_destination": "03_Discovery/Subpoenas",
+    "target_path": "03_Discovery/Subpoenas/Motion for Expedited Consideration of the Google Subpoena CV 25 03367 PHX SMB Expedited Subpoena.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'subpoena'"
+  },
+  {
+    "source": "MSPB Declaration of Kevin D.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/MSPB Declaration of Kevin D.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'mspb' | government-agency acronym"
+  },
+  {
+    "source": "OAM_ 119th Whistleblower Disclosure Form - Kevin Turnage06262025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "October 7, 2025 Letter to OIG.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/October 7, 2025 Letter to OIG.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "OIG October 2025 Packet.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/OIG October 2025 Packet.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "OIG Packet Sworn Statement.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/OIG Packet Sworn Statement.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "OIG.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/OIG.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'oig' | government-agency acronym"
+  },
+  {
+    "source": "OMB Cover Letter 062525.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Order Allowing ECF.pdf",
+    "predicted_destination": "01_Case_Management/Docket",
+    "target_path": "01_Case_Management/Docket/Order Allowing ECF.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'ecf'"
+  },
+  {
+    "source": "Order Doc 31.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/Order Doc 31.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "OSC Complaint OSC-11 June 9, 2025.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/OSC Complaint OSC-11 June 9, 2025.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "OSC DI-16-2511 Letter President.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "OSC Drake Email.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "OSC Email Chain.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'email chain'"
+  },
+  {
+    "source": "OSC FILE DI-16-2511_FINAL.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "OSC Referral Closing Letter - Kevin Turnage.pdf",
+    "predicted_destination": "09_Trial/Closing",
+    "target_path": "09_Trial/Closing/OSC Referral Closing Letter - Kevin Turnage.pdf",
+    "score": "88",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 09_Trial/Closing | matched 'closing'"
+  },
+  {
+    "source": "OSC Supplemental Filing 092525 Interview.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "OSC Supplemental Filing.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "OSC Supplemental Memo 09262025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/OSC Supplemental Memo 09262025.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "OSC Supplemental Memo 09262025_Signed.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/OSC Supplemental Memo 09262025_Signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memo'"
+  },
+  {
+    "source": "OSC_Stay_Request_Kevin_Turnage.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Other Complaint 062325.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Other Complaint 062325.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "performance-management-for-federal-employees-7-17-2025.pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/performance-management-for-federal-employees-7-17-2025.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'performance'"
+  },
+  {
+    "source": "performancemanagement.pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/performancemanagement.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'performance'"
+  },
+  {
+    "source": "Policy Committee bylaws.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Committee bylaws.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Committee Charter -Draft 112923.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Committee Charter -Draft 112923.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Data for GB 042825.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Data for GB 042825.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Management-History 062525.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Management-History 062525.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Management-History-No-Watermark.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Management-History-No-Watermark.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Management.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Management.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Ownership Pope.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Ownership Pope.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Review Adverse Drug Reactions  PolicyStat ID- 18272415  .pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Policy Review Adverse Drug Reactions  PolicyStat ID- 18272415  .pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'act'"
+  },
+  {
+    "source": "Policy Review Clinical Laboratory Reporting of Infectious Diseases to the Arizona Department of Health Services  PolicyStat ID- 18164239  .pdf",
+    "predicted_destination": "04_Exhibits/Medical_Records",
+    "target_path": "04_Exhibits/Medical_Records/Policy Review Clinical Laboratory Reporting of Infectious Diseases to the Arizona Department of Health Services  PolicyStat ID- 18164239  .pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'clinic'"
+  },
+  {
+    "source": "Policy Review Cytology Result Reporting  PolicyStat ID- 18239697  .pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Review Cytology Result Reporting  PolicyStat ID- 18239697  .pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Review Cytology Screening Performance  Policy Number- CYP.07655  PolicyStat ID- 18308966  .pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/Policy Review Cytology Screening Performance  Policy Number- CYP.07655  PolicyStat ID- 18308966  .pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'performance'"
+  },
+  {
+    "source": "Policy Review Emergency Contraception  PolicyStat ID- 18183654  .pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Review Emergency Contraception  PolicyStat ID- 18183654  .pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Review Microtomy Priority and Routine Sectioning Standards  PolicyStat ID- 18266343  .pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Review Microtomy Priority and Routine Sectioning Standards  PolicyStat ID- 18266343  .pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Review of  Intravenous Electrolytes \u0393\u00c7\u00f4 Storage, Preparation, and Administration  PolicyStat ID- 18096583  .pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Review of  Intravenous Electrolytes \u0393\u00c7\u00f4 Storage, Preparation, and Administration  PolicyStat ID- 18096583  .pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy Review Stroke Alert 18050273.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy Review Stroke Alert 18050273.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Policy_Report_April_2025_Quality_Council Final.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Policy_Report_April_2025_Quality_Council Final.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Poloicy Review Stroke Alert MFR .pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Pope Do Not update Policy expiration Directive in direct violation of TN 24-16 .pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Pope Do Not update Policy expiration Directive in direct violation of TN 24-16 .pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Pope Email reinforcing Directive.pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/Pope Email reinforcing Directive.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'directive'"
+  },
+  {
+    "source": "Pope Emails.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "Portfolio Hixson Request 06132025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "preliminary Order.pdf",
+    "predicted_destination": "01_Case_Management/Court_Orders",
+    "target_path": "01_Case_Management/Court_Orders/preliminary Order.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'order'"
+  },
+  {
+    "source": "Preservation Letter to US Attorney General Bondi.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Preservation Letter to US Attorney General Victoria Gray.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Preservation Letter to US Attorney General.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Proposal.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Protected Disclosure May 25, 2025_Signed.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "PSU.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "PX3439 PCMC (02.28.21).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "PX3439 PCMC CCC (02.28.21).pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "PX3439 PCMC HR.pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/PX3439 PCMC HR.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'hr'"
+  },
+  {
+    "source": "RA Medical Request Form_AttAB46.tmp.H.S_.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Radiation Policy Email Holliday.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Radiation Policy Email Holliday.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Radiation Policy Pope.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Radiation Policy Pope.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Reasonable Accomadations Form#1.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Reasonable Accomadations Form#1.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'ada'"
+  },
+  {
+    "source": "REBUTTAL TO JULY 14, 2025 INVESTIGATIVE LEAVE NOTICE.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'notice'"
+  },
+  {
+    "source": "Redlined First Amended Complaint.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Redlined First Amended Complaint.pdf",
+    "score": "160",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint' | matched 'amended complaint'"
+  },
+  {
+    "source": "Redlined Second Motion Exhibit B.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Redlined Second Motion Exhibit B.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Rejection of Clinical Laboratory Reporting of Infectious Diseases Policy_Signed.pdf",
+    "predicted_destination": "04_Exhibits/Medical_Records",
+    "target_path": "04_Exhibits/Medical_Records/Rejection of Clinical Laboratory Reporting of Infectious Diseases Policy_Signed.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'clinic'"
+  },
+  {
+    "source": "Rejection of Oral Contrast Media Administration Policy (PolicyStat ID- 18214016)_Signed.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Rejection of Oral Contrast Media Administration Policy (PolicyStat ID- 18214016)_Signed.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Rejection of Policy \u0393\u00c7\u00f4 RPMS, EHR, and Other Laboratory Software Updates and Installation (PolicyStat ID- 18164480)_Signed.pdf",
+    "predicted_destination": "04_Exhibits/Personnel_Records",
+    "target_path": "04_Exhibits/Personnel_Records/Rejection of Policy \u0393\u00c7\u00f4 RPMS, EHR, and Other Laboratory Software Updates and Installation (PolicyStat ID- 18164480)_Signed.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'hr'"
+  },
+  {
+    "source": "Reply to Defendant\u2019s Response to Motion for Limited Discovery.pdf",
+    "predicted_destination": "02_Pleadings/Replies",
+    "target_path": "02_Pleadings/Replies/Reply to Defendant\u2019s Response to Motion for Limited Discovery.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'reply'"
+  },
+  {
+    "source": "Request for Documentation 112525.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Response to Email Endrea McCabe 04012026 PMAP.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Response to Email Endrea McCabe 04012026 PMAP.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Response to Extension Request 121625.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Response to Extension Request 121625.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Resubmission Deficient Summons.pdf",
+    "predicted_destination": "01_Case_Management/Case_Caption",
+    "target_path": "01_Case_Management/Case_Caption/Resubmission Deficient Summons.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'summons'"
+  },
+  {
+    "source": "Retaliation _ U.S. Equal Employment Opportunity Commission.pdf",
+    "predicted_destination": "05_Legal_Authorities/Cases",
+    "target_path": "05_Legal_Authorities/Cases/Retaliation _ U.S. Equal Employment Opportunity Commission.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'u.s.'"
+  },
+  {
+    "source": "Retaliation Email about C. T..pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Review of Labeling of Specimen Containers, Colored Cassettes, & Slides 18265459.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "RFK Litigation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Right to File Formal complaint 12302025.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Right to File Formal complaint 12302025.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "RTF Completed and Signed.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Safety Event Reporting-History-No-Watermark.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Safety Management Plan-History-No-Watermark.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "SCO305KON19030514180.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Signed FMLA KTurnage.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Signed FMLA KTurnage.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'fmla'"
+  },
+  {
+    "source": "Stage 2 Grievance Letter040623.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Subject- Request for Review of Position Misclassification and Functional Mismatch \u0393\u00c7\u00f4 GS-0610-12.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Summary of Policy Compliance Reviews Post Governance Change Signed June092025.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Summary of Policy Compliance Reviews Post Governance Change Signed June092025.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "Summary of Policy Compliance Reviews Post Governance Change_Signed.pdf",
+    "predicted_destination": "04_Exhibits/Policies",
+    "target_path": "04_Exhibits/Policies/Summary of Policy Compliance Reviews Post Governance Change_Signed.pdf",
+    "score": "75",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'policy'"
+  },
+  {
+    "source": "SUPPLEMENTAL BRIEF IN SUPPORT OF OSC CASE NOS. DI-25-001542 AND MA-25-004957 07092025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/SUPPLEMENTAL BRIEF IN SUPPORT OF OSC CASE NOS. DI-25-001542 AND MA-25-004957 07092025.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'brief'"
+  },
+  {
+    "source": "Supplemental Statement Affidavit 1.pdf",
+    "predicted_destination": "02_Pleadings/Declarations",
+    "target_path": "02_Pleadings/Declarations/Supplemental Statement Affidavit 1.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'affidavit'"
+  },
+  {
+    "source": "Supplemental_Statement_Turnage_Full.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Supreme Court Decision Thompson v  North American Stainless, LP.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "T Greve Move I&I.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "T Greve RA Medical Request Letter.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "T Greve RA Medical Request Letter[7].pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "TG Detail Letter 08_29_2022.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "TG Emails.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "Timeline of continued Retaliation and Continuing Animus.pdf",
+    "predicted_destination": "06_Research/Timelines",
+    "target_path": "06_Research/Timelines/Timeline of continued Retaliation and Continuing Animus.pdf",
+    "score": "90",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'timeline'"
+  },
+  {
+    "source": "TJC 062525 Cover Letter.pdf",
+    "predicted_destination": "00_Admin/Correspondence",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'letter'"
+  },
+  {
+    "source": "Tonie Greve Step 1 grievance-letter-response signed.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Tonie Greve Step 1 grievance-letter-response signed.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'response'"
+  },
+  {
+    "source": "Transmittal Memorandum 04282025.pdf",
+    "predicted_destination": "02_Pleadings/Briefs",
+    "target_path": "02_Pleadings/Briefs/Transmittal Memorandum 04282025.pdf",
+    "score": "140",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'memorandum' | matched 'memo'"
+  },
+  {
+    "source": "Transmittal Mermo and email to Dr. McCabe 042282025.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Transmittal Notice 24-16.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'notice'"
+  },
+  {
+    "source": "TURNAGE DOCUMENT REQUEST - 2.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Turnage Kevin - Letter of Directive - 3-22-23.pdf",
+    "predicted_destination": "05_Legal_Authorities/Agency_Guidance",
+    "target_path": "05_Legal_Authorities/Agency_Guidance/Turnage Kevin - Letter of Directive - 3-22-23.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'directive'"
+  },
+  {
+    "source": "Turnage Kevin Investigative Leave Notice 10.8.25.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'notice'"
+  },
+  {
+    "source": "Turnage+Final+(Redacted)-1.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Turnage+Final+(Redacted)-1.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'act'"
+  },
+  {
+    "source": "Turnage+Final+(Redacted)-4_OCR.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/Turnage+Final+(Redacted)-4_OCR.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'act'"
+  },
+  {
+    "source": "Turnage+Response+to+Motion+to+Strike.pdf",
+    "predicted_destination": "02_Pleadings/Motions",
+    "target_path": "02_Pleadings/Motions/Turnage+Response+to+Motion+to+Strike.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'motion'"
+  },
+  {
+    "source": "Turnage+v.+HHS+-+Opposition+Statement.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Turnage+v.+HHS+-+Opposition+Statement.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'opposition'"
+  },
+  {
+    "source": "Turnage+v.+HHS+-+Support+Statement-1.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Turnage+v.+HHS+-Brief+Agency+Opposition+Statement-1.pdf",
+    "predicted_destination": "02_Pleadings/Responses",
+    "target_path": "02_Pleadings/Responses/Turnage+v.+HHS+-Brief+Agency+Opposition+Statement-1.pdf",
+    "score": "70",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'opposition'"
+  },
+  {
+    "source": "Turnage, Kevin D.-  [HHS-IHS-0614-2023] -Acknowledgement Letter for Formal Complaint (02-10-26)-Signed by MBJ.pdf",
+    "predicted_destination": "02_Pleadings/Complaints",
+    "target_path": "02_Pleadings/Complaints/Turnage, Kevin D.-  [HHS-IHS-0614-2023] -Acknowledgement Letter for Formal Complaint (02-10-26)-Signed by MBJ.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'complaint'"
+  },
+  {
+    "source": "Turnage,+Kevin+-+Final+Agency+Decision+Email+for+EEODI.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "Turnage_Formal_Objection_Records_Demand_Preservation_Notice_04012026.pdf",
+    "predicted_destination": "02_Pleadings/Notices",
+    "target_path": "",
+    "score": "65",
+    "action": "review_only",
+    "method": "",
+    "reasons": "matched 'notice'"
+  },
+  {
+    "source": "Ty Reidhead Litgation Hold.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "UNITED STATES DEPARTMENT OF JUSTICE.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "UNITED STATES v. MILLER (2009) _ FindLaw.pdf",
+    "predicted_destination": "05_Legal_Authorities/Cases",
+    "target_path": "05_Legal_Authorities/Cases/UNITED STATES v. MILLER (2009) _ FindLaw.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched ' v. '"
+  },
+  {
+    "source": "US DHS 062525.pdf",
+    "predicted_destination": "98_Needs_Review/Uncertain",
+    "target_path": "",
+    "score": "0",
+    "action": "review_only",
+    "method": "",
+    "reasons": "no confident match"
+  },
+  {
+    "source": "USA v. GAO et al.pdf",
+    "predicted_destination": "04_Exhibits/Government_Reports",
+    "target_path": "04_Exhibits/Government_Reports/USA v. GAO et al.pdf",
+    "score": "115",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'gao' | government-agency acronym"
+  },
+  {
+    "source": "USCODE-2024-title5-partIV-chap131.pdf",
+    "predicted_destination": "05_Legal_Authorities/Statutes",
+    "target_path": "05_Legal_Authorities/Statutes/USCODE-2024-title5-partIV-chap131.pdf",
+    "score": "80",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched 'usc'"
+  },
+  {
+    "source": "Ward Lund Emails.pdf",
+    "predicted_destination": "04_Exhibits/Emails",
+    "target_path": "",
+    "score": "8",
+    "action": "review_only",
+    "method": "",
+    "reasons": "path/name mentions 04_Exhibits/Emails"
+  },
+  {
+    "source": "Williams V. United Health Grp.pdf",
+    "predicted_destination": "05_Legal_Authorities/Cases",
+    "target_path": "05_Legal_Authorities/Cases/Williams V. United Health Grp.pdf",
+    "score": "85",
+    "action": "would_move",
+    "method": "",
+    "reasons": "matched ' v. '"
+  },
+  {
+    "source": "Yomi v United States  Dept of Health and Human Service, 970 8754 (D. Kan. 2022).pdf",
+    "predicted_destination": "01_Case_Management/Service",
+    "target_path": "01_Case_Management/Service/Yomi v United States  Dept of Health and Human Service, 970 8754 (D. Kan. 2022).pdf",
+    "score": "78",
+    "action": "would_move",
+    "method": "",
+    "reasons": "path/name mentions 01_Case_Management/Service | matched 'service'"
+  }
+]
