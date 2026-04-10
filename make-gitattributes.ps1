@@ -1,4 +1,7 @@
-﻿###############################################################################
+﻿$path = "I:\Legal Repository\.gitattributes"
+
+$content = @"
+###############################################################################
 # .gitattributes for a legal / litigation / investigations repository
 ###############################################################################
 
@@ -145,3 +148,7 @@
 *.dxf   filter=lfs diff=lfs merge=lfs -text
 *.kml   filter=lfs diff=lfs merge=lfs -text
 *.kmz   filter=lfs diff=lfs merge=lfs -text
+"@
+
+Set-Content -Path $path -Value $content -Encoding UTF8
+Write-Host "Created $path"
