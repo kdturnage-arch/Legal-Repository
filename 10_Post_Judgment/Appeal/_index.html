@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Appeal - Legal Repository Browser</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{--bg:#f4f6f8;--panel:#fff;--line:#d7dde4;--muted:#5f6b7a;--text:#18212b;--accent:#1f6feb;--hover:#eef4ff}
+*{box-sizing:border-box} html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Segoe UI,Arial,sans-serif}
+.header{background:var(--panel);border-bottom:1px solid var(--line);padding:16px 20px}
+.header h1{margin:0 0 6px 0;font-size:24px}
+.sub{color:var(--muted);font-size:13px;line-height:1.4}
+.wrap{display:grid;grid-template-columns:430px 1fr;gap:18px;padding:18px}
+@media (max-width:980px){.wrap{grid-template-columns:1fr}}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+.search{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:14px;margin-bottom:14px}
+.nav-row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px}
+.pill{display:inline-block;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 12px;text-decoration:none;color:var(--text);font-size:14px}
+.pill.disabled{color:var(--muted);background:#f8fafc}
+.section-title{margin:18px 0 10px 0;font-size:16px}
+.folder-grid,.file-list{display:grid;gap:10px}
+.folder-card,.file-row{display:block;border:1px solid var(--line);border-radius:12px;padding:12px;background:#fff;text-decoration:none;color:var(--text)}
+.folder-card:hover{background:var(--hover)}
+.folder-title{font-weight:700;margin-bottom:4px}
+.folder-path,.file-subpath,.path{font-family:Consolas,monospace;color:#334155;font-size:12px;word-break:break-word}
+.folder-meta,.file-meta,.note,.muted{color:var(--muted);font-size:12px}
+.file-name{border:0;background:transparent;padding:0;cursor:pointer;font-weight:700;color:var(--text);text-align:left;font-size:14px}
+.file-name:hover{color:var(--accent)}
+.file-actions,.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}
+.file-actions a,.actions a,.actions button{color:var(--accent);text-decoration:none;font-size:13px;border:1px solid var(--line);background:#fff;border-radius:9px;padding:8px 12px;cursor:pointer}
+.preview-card,.preview-box{border:1px solid var(--line);border-radius:12px;padding:14px;background:#fff;margin-bottom:14px}
+.preview-frame{width:100%;min-height:72vh;border:1px solid var(--line);border-radius:8px;background:#fff}
+.preview-image{max-width:100%;height:auto;display:block;border:1px solid var(--line);border-radius:8px}
+.preview-video{width:100%;max-height:72vh;border-radius:8px}
+.preview-audio{width:100%}
+.badge{display:inline-block;margin-left:8px;background:#eef2f7;color:#334155;font-size:12px;padding:3px 8px;border-radius:999px}
+.empty{color:var(--muted);font-style:italic;padding:10px 2px}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Appeal</h1>
+  <div class="sub"><div><strong>Repository path:</strong> ../10_Post_Judgment/Appeal</div><div><strong>Generated:</strong> 2026-04-10 06:30:42</div></div>
+</div>
+<div class="wrap">
+  <div class="panel">
+    <div class="nav-row"><a class="pill" href="../../../index.html">Home</a> <a class="pill" href="../../_index.html">Parent</a></div>
+    <input id="filterBox" class="search" type="text" placeholder="Filter folders or files on this page...">
+    <h3 class="section-title">Subfolders</h3><div id="folderGrid" class="folder-grid"><div class="empty">No subfolders in this directory.</div></div>
+    <h3 class="section-title">Files in this folder</h3><div id="fileList" class="file-list"><div class="empty">No files in this directory.</div></div>
+  </div>
+  <div class="panel">
+    <div class="preview-card"><div class="path">Select a file to show details and a preview when supported.</div><div class="note">Best inline previews: PDF, images, audio, video, and many text-based files.</div></div>
+    <div id="previewPane"></div>
+  </div>
+</div>
+<script>
+const FILES = [];
+function escapeHtml(value){return String(value ?? "").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#39;");}
+function formatSize(bytes){const units=["B","KB","MB","GB","TB"]; let size=Number(bytes||0), i=0; while(size>=1024 && i<units.length-1){size/=1024;i++;} return (i===0?size.toFixed(0):size.toFixed(2))+" "+units[i];}
+function previewMarkup(file){switch(file.preview){case "image": return `<img class="preview-image" src="${file.url}" alt="${escapeHtml(file.name)}">`; case "pdf": return `<iframe class="preview-frame" src="${file.url}#view=FitH"></iframe>`; case "video": return `<video class="preview-video" controls src="${file.url}"></video>`; case "audio": return `<audio class="preview-audio" controls src="${file.url}"></audio>`; case "text": return `<iframe class="preview-frame" src="${file.url}"></iframe>`; default: return `<div class="note">No inline preview for this file type here. Use Open or Download.</div>`;}}
+function showFile(index){const file=FILES[index]; if(!file)return; document.getElementById("previewPane").innerHTML=`<div class="preview-card"><div style="font-size:20px;font-weight:700;">[File] ${escapeHtml(file.name)}<span class="badge">${escapeHtml(file.ext || "file")}</span></div><div class="path" style="margin-top:8px;">${escapeHtml(file.repoPath)}</div><div style="margin-top:12px;"><div><span class="muted">Folder-relative path:</span> ${escapeHtml(file.folderPath)}</div><div><span class="muted">Size:</span> ${escapeHtml(formatSize(file.size))}</div><div><span class="muted">Modified:</span> ${escapeHtml(file.modified)}</div></div><div class="actions"><a href="${file.url}" target="_blank">Open file</a><a href="${file.url}" download>Download file</a></div></div><div class="preview-box">${previewMarkup(file)}</div>`;}
+document.getElementById("filterBox").addEventListener("input", function(){const q=this.value.toLowerCase().trim(); document.querySelectorAll(".filterable").forEach(el=>{const hay=(el.getAttribute("data-search") || "").toLowerCase(); el.style.display = hay.includes(q) ? "" : "none";});});
+</script>
+</body>
+</html>
